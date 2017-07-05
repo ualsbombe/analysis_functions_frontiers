@@ -1,0 +1,18 @@
+{
+  "analysis_functions_frontiers-1.0-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "python 2.7*"
+    ], 
+    "file_hash": "acc26a47827f87f9d66fe915c946a1101586aa64", 
+    "md5": "510c08e2f9364ed7316a09e81174b08b", 
+    "mtime": 1499257220.9330256, 
+    "name": "analysis_functions_frontiers", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 2585432, 
+    "version": "1.0"
+  }
+}
